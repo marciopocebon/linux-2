@@ -34,7 +34,7 @@ ipcalc (1)           - perform simple manipulation of IP addresses
 iwconfig (8)         - configure a wireless network interface
 jobs (1)             - bash built-in commands, see bash(1)
 last (1)             - show listing of last logged in users
-ldd executable_path - shows external libs used bt the exectable
+ldd 		     - 	ldd prints out shared library depenencies
 loadkeys (1)         - load keyboard translation tables
 logger (1)           - a shell command interface to the syslog(3) system log module
 lp (1)               - print files
@@ -81,3 +81,4 @@ zcat (1)             - compress or expand files
 zdiff (1)            - compare compressed files
 zgrep (1)            - search possibly compressed files for a regular expression
 zless (1)            - file perusal filter for crt viewing of compressed text
+fuser (1)            - identify processes using files or sockets
