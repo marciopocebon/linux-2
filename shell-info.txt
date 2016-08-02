@@ -1,0 +1,5 @@
+/etc/issue	- shows a message before login to users
+/etc/issue.net	- shows a message to remote login users
+/etc/motd	- shows a message after login to users
+/etc/shells - available shells
+1

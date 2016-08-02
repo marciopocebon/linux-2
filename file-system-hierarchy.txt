@@ -1,0 +1,59 @@
+/bin: Essential user command binaries (for use by all users)
+/boot: Static files of the boot loader
+/dev: Device files
+/dev: Devices and special files
+/etc: Host-specific system configuration
+/etc/opt: Configuration files for/opt
+/etc/sgml: Configuration files for SGML (optional)
+/etc/X11: Configuration for the X Window System (optional)
+/etc/xml: Configuration files for XML (optional)
+/home: User home directories (optional)
+/lib64 and/lib32: 64/32-bit libraries (architecture dependent)
+/lib: Essential shared libraries and kernel modules
+/lib<qual>: Alternate format essential shared libraries (optional)
+/media: Mount point for removeable media
+/mnt: Mount point for a temporarily mounted filesystem
+/opt: Add-on application software packages
+/proc: Kernel and process information virtual filesystem
+/: Root directory
+/root: Home directory for the root user (optional)
+/sbin: Essential system binaries
+/srv: Data for services provided by this system
+/tmp: Temporary files
+/usr/bin: Most user commands
+/usr/include: Directory for standard include files.
+/usr/include: Header files included by C programs
+/usr/lib: Libraries for programming and packages
+/usr/lib<qual>: Alternate format libraries (optional)
+/usr/local/share
+/usr/sbin: Non-essential standard system binaries
+/usr/share: Architecture-independent data
+/usr/share/dict: Word lists (optional)
+/usr/share/man: Manual pages
+/usr/share/misc: Miscellaneous architecture-independent data
+/usr/share/sgml: SGML data (optional)
+/usr/share/xml: XML data (optional)
+/usr/src: Source code (optional)
+/usr/X11R6: X Window System, Version 11 Release 6 (optional)
+/var/account: Process accounting logs (optional)
+/var/cache: Application cache data
+/var/cache/fonts: Locally-generated fonts (optional)
+/var/cache/man: Locally-formatted manual pages (optional)
+/var/crash: System crash dumps (optional)
+/var/games: Variable game data (optional)
+/var/lib/<editor>: Editor backup files and state (optional)
+/var/lib/hwclock: State directory for hwclock (optional)
+/var/lib/misc: Miscellaneous variable data
+/var/lib: Variable state information
+/var/lock: Lock files
+/var/log: Log files and directories
+/var/mail: User mailbox files (optional)
+/var/opt: Variable data for/opt
+/var/run: Run-time variable data
+/var/spool: Application spool data
+/var/spool/cron: cron and at jobs
+/var/spool/lpd: Line-printer daemon print queues (optional)
+/var/spool/rwho: Rwhod files (optional)
+/var/tmp: Temporary files preserved between system reboots
+/var/yp: Network Information Service (NIS) database files (optional)
+/var/lib/rpm: RPM database - list all modified and created files when a user un/install a program

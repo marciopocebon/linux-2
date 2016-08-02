@@ -1,0 +1,5 @@
+oiginal size: 266k
+			|   gzip	|	bzip2	|
+final size		|   138k	|	133k	|
+time to compact		|   0m0.086s	|    0m0.061s	|
+time to descompact	|   0m0.020s	|    0m0.057s	|
