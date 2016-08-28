@@ -1,2 +1,2 @@
 # linux
-Personal stuff for running and managing linux.
+Personal studies for running and managing linux.
