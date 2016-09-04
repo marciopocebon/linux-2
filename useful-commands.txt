@@ -21,6 +21,7 @@ fg (1)               - bash built-in commands, see bash(1)
 file (1)             - determine file type
 find (1)             - search for files in a directory hierarchy
 fmt (1)              - simple optimal text formatter
+fuser (1)            - identify processes using files or sockets
 gdb (1)              - The GNU Debugger
 grep (1)             - print lines matching a pattern
 gzip (1)             - compress or expand files
