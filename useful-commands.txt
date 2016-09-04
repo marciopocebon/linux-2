@@ -89,4 +89,3 @@ zcat (1)             - compress or expand files
 zdiff (1)            - compare compressed files
 zgrep (1)            - search possibly compressed files for a regular expression
 zless (1)            - file perusal filter for crt viewing of compressed text
-fuser (1)            - identify processes using files or sockets
