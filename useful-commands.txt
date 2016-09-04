@@ -56,8 +56,10 @@ nmap (1)             - Network exploration tool and security / port scanner
 nmap (1) - Network exploration tool and security / port scanner
 ping (8)             - send ICMP ECHO_REQUEST to network hosts
 pstree (1)           - display a tree of processes
+quota (1)            - display disk usage and limits
 route (8)            - show / manipulate the IP routing table
 rpm -qa package_name - shows files in the filesystem written by package_name
+rpm -q --configfiles sysstat - find config files
 rsync (1) - a fast, versatile, remote (and local) file-copying tool
 scp (1)              - secure copy (remote file copy program)
 sed (1)              - stream editor for filtering and transforming text
