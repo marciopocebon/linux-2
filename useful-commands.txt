@@ -34,9 +34,11 @@ iostat -  Report Central Processing Unit (CPU) statistics and input/output stati
 iotop - simple top-like I/O monitor
 ip (8)               - show / manipulate routing, devices, policy routing and tunnels
 ipcalc (1)           - perform simple manipulation of IP addresses
+iptables (8)         - administration tool for IPv4/IPv6 packet filtering and NAT
 iwconfig (8)         - configure a wireless network interface
 jobs (1)             - bash built-in commands, see bash(1)
 last (1)             - show listing of last logged in users
+lastlog (8)          - reports the most recent login of all users or of a given user
 ldd 		     - 	ldd prints out shared library depenencies
 loadkeys (1)         - load keyboard translation tables
 logger (1)           - a shell command interface to the syslog(3) system log module
