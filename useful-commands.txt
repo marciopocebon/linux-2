@@ -44,6 +44,7 @@ loadkeys (1)         - load keyboard translation tables
 logger (1)           - a shell command interface to the syslog(3) system log module
 lp (1)               - print files
 lpstat (1)           - print cups status information
+lspci (8)            - list all PCI devices
 man (1)              - an interface to the on-line reference manuals
 mktemp (1)           - create a temporary file or directory
 modprobe (8)         - Add and remove modules from the Linux Kernel
@@ -68,7 +69,6 @@ sha512sum (1) - compute and check SHA512 message digest
 sort (1)             - sort lines of text files
 sort (3pm)           - perl pragma to control sort() behaviour
 split (1)            - split a file into pieces
-stat (1)             - display file or file system status
 stat (1)             - display file or file system status
 strace - trace system calls and signals
 strings (1)          - print the strings of printable characters in files.
