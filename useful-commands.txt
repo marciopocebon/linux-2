@@ -14,6 +14,7 @@ df (1)               - report file system disk space usage
 diff3 (1) - compare three files line by line
 dig - dns lookup utility
 dmesg (1)            - print or control the kernel ring buffer
+dracut (8)           - low-level tool for generating an initramfs image
 du (1)               - estimate file space usage
 ethtool (8)          - query or control network driver and hardware settings
 exportfs (8) - maintain table of exported NFS file systems
