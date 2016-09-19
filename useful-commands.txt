@@ -1,4 +1,3 @@
-
 apropos (1)          - search the manual page names and descriptions
 at (1)               - queue, examine or delete jobs for later execution
 awk (1)              - pattern scanning and processing language
@@ -18,6 +17,7 @@ dracut (8)           - low-level tool for generating an initramfs image
 du (1)               - estimate file space usage
 ethtool (8)          - query or control network driver and hardware settings
 exportfs (8) - maintain table of exported NFS file systems
+fdisk (8)            - manipulate disk partition table
 fg (1)               - bash built-in commands, see bash(1)
 file (1)             - determine file type
 find (1)             - search for files in a directory hierarchy
@@ -28,7 +28,6 @@ grep (1)             - print lines matching a pattern
 gzip (1)             - compress or expand files
 help (1)             - bash built-in commands, see bash(1)
 hostname (1)         - show or set the system's host name
-hostname (5)         - Local hostname configuration file
 ifconfig (8)         - configure a network interface
 insmod (8)           - Simple program to insert a module into the Linux Kernel
 iostat -  Report Central Processing Unit (CPU) statistics and input/output statistics for devices and partitions.
@@ -46,18 +45,23 @@ logger (1)           - a shell command interface to the syslog(3) system log mod
 lp (1)               - print files
 lpstat (1)           - print cups status information
 lsinitrd (1)         - tool to show the contents of an initramfs image
+lsdev - display information about installed hardware
+lsmod (8)            - Show the status of modules in the Linux Kernel
+lspci (8)            - list all PCI devices
 man (1)              - an interface to the on-line reference manuals
 mktemp (1)           - create a temporary file or directory
+modinfo (8)          - Show information about a Linux Kernel module
 modprobe (8)         - Add and remove modules from the Linux Kernel
-# name of the temp file cannot be easily predicted and is only known within your program.
 netstat (8)          - Print network connections, routing tables, interface statistics, masquerade connections, and multicast memberships
 nfs (5) - fstab format and options for the nfs file systems
 nice (1)             - run a program with modified scheduling priority
 nl (1)               - number lines of files
 nmap (1)             - Network exploration tool and security / port scanner
 nmap (1) - Network exploration tool and security / port scanner
+pidof (8)            - find the process ID of a running program.
 ping (8)             - send ICMP ECHO_REQUEST to network hosts
 pkg-config (1)       - Return metainformation about installed libraries
+procinfo - display system status gathered from /proc
 pstree (1)           - display a tree of processes
 quota (1)            - display disk usage and limits
 route (8)            - show / manipulate the IP routing table
@@ -75,18 +79,19 @@ stat (1)             - display file or file system status
 strace - trace system calls and signals
 strings (1)          - print the strings of printable characters in files.
 systemctl (1)        - Control the systemd system and service manager
+sysctl (8)           - configure kernel parameters at runtime
 tac (1) - concatenate and print files in reverse
 tcpdump - dump traffic on a network
 TEMPDIR=$(mktemp -d /tmp/tempdir.XXXXXX)
 TEMP=$(mktemp /tmp/tempfile.XXXXXX)
 tr (1)               - translate or delete characters
 type (1)             - bash built-in commands, see bash(1)
+udevadm (8)          - udev management tool
 uname (1)            - print system information
 uniq (1)             - report or omit repeated lines
 vmstat (8)           - Report virtual memory statistics
 vpnc (8)             - client for Cisco VPN3000 Concentrator, IOS and PIX
 xargs (1)            - build and execute command lines from standard input
-# Xs is replaced the mktemp utility with random characters to ensure the 
 xz (1) - Compress or decompress .xz and .lzma files
 zcat (1)             - compress or expand files
 zdiff (1)            - compare compressed files
