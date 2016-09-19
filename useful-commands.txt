@@ -72,9 +72,9 @@ sort (1)             - sort lines of text files
 sort (3pm)           - perl pragma to control sort() behaviour
 split (1)            - split a file into pieces
 stat (1)             - display file or file system status
-stat (1)             - display file or file system status
 strace - trace system calls and signals
 strings (1)          - print the strings of printable characters in files.
+systemctl (1)        - Control the systemd system and service manager
 tac (1) - concatenate and print files in reverse
 tcpdump - dump traffic on a network
 TEMPDIR=$(mktemp -d /tmp/tempdir.XXXXXX)
