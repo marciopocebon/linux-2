@@ -45,6 +45,7 @@ loadkeys (1)         - load keyboard translation tables
 logger (1)           - a shell command interface to the syslog(3) system log module
 lp (1)               - print files
 lpstat (1)           - print cups status information
+lsinitrd (1)         - tool to show the contents of an initramfs image
 man (1)              - an interface to the on-line reference manuals
 mktemp (1)           - create a temporary file or directory
 modprobe (8)         - Add and remove modules from the Linux Kernel
