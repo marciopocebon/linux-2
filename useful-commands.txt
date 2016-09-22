@@ -66,6 +66,7 @@ ping (8)             - send ICMP ECHO_REQUEST to network hosts
 pkg-config (1)       - Return metainformation about installed libraries
 procinfo - display system status gathered from /proc
 pstree (1)           - display a tree of processes
+pvscan (8)           - scan all disks for physical volumes
 quota (1)            - display disk usage and limits
 route (8)            - show / manipulate the IP routing table
 rpm -qa package_name - shows files in the filesystem written by package_name
