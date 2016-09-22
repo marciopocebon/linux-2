@@ -24,6 +24,7 @@ find (1)             - search for files in a directory hierarchy
 fmt (1)              - simple optimal text formatter
 fuser (1)            - identify processes using files or sockets
 gdb (1)              - The GNU Debugger
+gdisk (8)            - Interactive GUID partition table (GPT) manipulator
 grep (1)             - print lines matching a pattern
 gzip (1)             - compress or expand files
 help (1)             - bash built-in commands, see bash(1)
