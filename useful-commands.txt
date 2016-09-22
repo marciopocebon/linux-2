@@ -46,6 +46,7 @@ lp (1)               - print files
 lpstat (1)           - print cups status information
 lsinitrd (1)         - tool to show the contents of an initramfs image
 lsdev - display information about installed hardware
+lsinitrd (1)         - tool to show the contents of an initramfs image
 lsmod (8)            - Show the status of modules in the Linux Kernel
 lspci (8)            - list all PCI devices
 man (1)              - an interface to the on-line reference manuals
