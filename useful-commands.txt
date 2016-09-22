@@ -44,7 +44,6 @@ loadkeys (1)         - load keyboard translation tables
 logger (1)           - a shell command interface to the syslog(3) system log module
 lp (1)               - print files
 lpstat (1)           - print cups status information
-lsinitrd (1)         - tool to show the contents of an initramfs image
 lsdev - display information about installed hardware
 lsinitrd (1)         - tool to show the contents of an initramfs image
 lsmod (8)            - Show the status of modules in the Linux Kernel
@@ -59,6 +58,7 @@ nice (1)             - run a program with modified scheduling priority
 nl (1)               - number lines of files
 nmap (1)             - Network exploration tool and security / port scanner
 nmap (1) - Network exploration tool and security / port scanner
+parted (8)           - a partition manipulation program
 pidof (8)            - find the process ID of a running program.
 ping (8)             - send ICMP ECHO_REQUEST to network hosts
 pkg-config (1)       - Return metainformation about installed libraries
@@ -79,8 +79,8 @@ split (1)            - split a file into pieces
 stat (1)             - display file or file system status
 strace - trace system calls and signals
 strings (1)          - print the strings of printable characters in files.
-systemctl (1)        - Control the systemd system and service manager
 sysctl (8)           - configure kernel parameters at runtime
+systemctl (1)        - Control the systemd system and service manager
 tac (1) - concatenate and print files in reverse
 tcpdump - dump traffic on a network
 TEMPDIR=$(mktemp -d /tmp/tempdir.XXXXXX)
